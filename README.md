@@ -24,9 +24,14 @@
 - **Diversity and Inclusivity:** Promotes a welcoming environment for new contributors from diverse backgrounds and skill levels.
 - **Sustainability:** Helps maintainers by expanding the pool of active contributors, supporting the long-term health and growth of open-source projects.
 
-### Upcoming Feature: GitHub App
+## Installation
 
-**Stay tuned**: Soon, you’ll be able to install @goodfirstissuebot as a GitHub App directly on your repositories. This will simplify the integration process and make it even easier to leverage the bot’s capabilities to attract new contributors to your project.
+To install the Good First Issue Tweeter bot on your GitHub organization or repository, follow these steps:
+
+1. Go to the [Good First Issue Tweeter GitHub App page](https://github.com/apps/good-first-issue-tweeter).
+2. Click on the "Install" button.
+3. Choose the repository or organization where you want to install the bot.
+4. Authorize the installation by granting necessary permissions.
 
 ---
 
