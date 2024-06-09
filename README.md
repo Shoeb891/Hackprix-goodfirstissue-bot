@@ -1,6 +1,6 @@
 ## What is the @goodfirstissue Bot?
 
-@**goodfirstissuebot** is a GitHub bot designed to help open-source projects attract and engage new contributors. It does this by tweeting about unassigned and open issues that are labeled as "good first issue." This selective notification approach allows potential contributors to easily find beginner-friendly tasks without the clutter of irrelevant updates.
+@**gfibot(goodfirstissue)** is a GitHub bot designed to help open-source projects attract and engage new contributors. It does this by tweeting about unassigned and open issues that are labeled as "good first issue." This selective notification approach allows potential contributors to easily find beginner-friendly tasks without the clutter of irrelevant updates.
 
 ### How @gfibot Works
 
@@ -13,7 +13,7 @@
    - **Notification:** It then sends this information to a processing function which filters out any non-relevant issues.
 
 2. **Twitter Handle:**
-   - **Real-Time Alerts:** The processed and filtered issue details are tweeted through the [@goodfirstissue](https://twitter.com/goodfirstissue) Twitter handle.
+   - **Real-Time Alerts:** The processed and filtered issue details are tweeted through the [@gfibot](https://twitter.com/gfibot) Twitter handle.
    - **Audience:** Potential first-time contributors follow this Twitter handle to receive real-time notifications about these beginner-friendly issues.
    - **Diverse Opportunities:** The bot highlights issues from various open-source projects across different programming languages and domains, providing a wide range of opportunities for new contributors.
 
